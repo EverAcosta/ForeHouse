@@ -1,0 +1,104 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+header{
+	background: #00667f;
+	height: 92px;
+	margin: auto;
+	position: relative;	
+}
+.subheader{
+	width: 1280px;
+	margin:auto;
+}
+.logotipo{	
+	width: 88px;
+	height: 90px;
+	margin-left: 76px;
+	margin-top: 2px;
+	position: absolute;
+	background-repeat: no-repeat;
+	float: left;
+}
+.logotipo img{	
+	width: 80px;
+	height: 85px;
+}
+nav{
+float: left;
+height: 90px;
+width: 350px;
+margin-left: 900px;
+}
+nav li{
+	list-style-type: none;
+	margin-left: 15px;
+	float: left;
+	display: block;
+}
+
+nav img{
+	width: 50px;
+	height: 50px;	
+	margin-top: 20px;
+}
+nav .paquete{
+	height: 45px;
+	width: 140px;
+	display: block;
+	background-color: #fff;
+	margin-top: 22px;
+}
+.paquete a{
+	width: 140px;
+	height: 45px;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+	
+	display: block;
+
+}
+.paquete ul{
+	display: none;
+}
+
+footer{
+	background: #00667f;
+	width: 100%;
+	height: 140px;
+	position: absolute;
+}
+.subfooter{
+	width: 1280px;
+	height: 140px;
+	margin: auto;
+}
+.contactos{
+	float: left;
+	height: 140px;
+	width: 370px;
+	margin-left: 180px;
+	
+}
+.contactos a{
+	text-decoration-line: none;
+	color: #fff;
+}
+.contactos a:hover{
+	opacity: 0.7;
+}
+.contactos li{
+	list-style-type: none;
+	height: 30px;
+	float: left;
+	margin-right: 20px;
+}
+.contactos ul{
+	float: left;
+	margin-top: 40px;
+}
+
