@@ -1,0 +1,20 @@
+.reportes{
+	max-width: 930px;
+	height: 160px;
+	background: #eeeeee;
+	margin:auto;
+	margin-bottom: 10px;
+	border:solid;
+	border-color: #00667f;
+}
+main h2{
+	margin-top: 50px;
+}
+li{
+	list-style-type: none;
+	float: left;
+}
+main a{
+	text-decoration-line: none;
+	color: #000;
+}

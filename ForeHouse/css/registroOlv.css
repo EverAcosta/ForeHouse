@@ -37,10 +37,14 @@ main #signupbox{
 main #signupalert{
 	display: none;
 }
-main button{
-	margin-left: 100px;
-	margin-bottom: 50px;
+button{
+	min-width: 110px;
+	margin-left: -15px;
 }
+.container{
+	height: 200px;
+}
+
 li{	
 	list-style-type: none;
 	}
@@ -50,9 +54,5 @@ li{
 #login-alert{
 	display: none;
 }
-
-
-
-
 
 

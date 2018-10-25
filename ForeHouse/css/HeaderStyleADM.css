@@ -1,0 +1,79 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+	background: #00667f;
+	height: 90px;
+	width: auto;	
+}
+
+.navbar{
+	background: #00667f;
+	border:none;
+	margin-top: 
+}
+.container a{
+	color:#fff;
+}
+.navbar-brand{
+	margin-top: -10px;
+}
+#navbar-1{
+	margin-top: 15px;
+}
+.dropdown-menu{
+	color: #00667f;
+}	
+.navbar-header button{
+	margin-top: 25px;
+	background: #fff;
+}
+
+#mic{
+	display: block;
+	color: #00667f;
+	background: #fff;
+}
+#solo{
+	color: #fff;
+
+}
+footer{
+	background: #00667f;
+	width: 100%;
+	height: 170px;
+	position: absolute;
+}
+footer img{
+	float: left;
+	margin-top: 20px;
+}
+
+
+aside{
+	float: left;
+	height: 140px;
+	width: 370px;
+	
+	
+	
+}
+aside a{
+	text-decoration-line: none;
+	color: #fff;
+	margin-left: 10px;
+}
+aside a:hover{
+	color: #fff;
+}
+aside li{
+	list-style-type: none;
+	height: 50px;
+	float: left;
+	
+}
+aside ul{
+	float: left;
+	margin-top: 40px;
+}

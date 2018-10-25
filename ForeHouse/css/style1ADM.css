@@ -1,0 +1,21 @@
+
+main{
+	text-align: center;
+}
+main h2{
+	color: #00667f;
+	margin-top: 130px;
+}
+.index_busqueda>.container{
+	background: #eeeeee;
+	border-left: solid;
+	border-right: solid;
+	border-color: #00667f;
+	height: 500px;
+}
+form{
+	max-width: 500px;
+	
+	margin: auto;
+
+}
